@@ -38,6 +38,7 @@ The **core highlight** of this project is the seat locking system, which tempora
 5. **Finalization:** Seats transition from `LOCKED` to `BOOKED` only after successful confirmation.
 
 ---
+![App Preview](Screenshot%202026-03-15%20200515.png)
 
 ## 📂 Project Structure
 
